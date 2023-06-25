@@ -1,3 +1,3 @@
 # personal_site
 
-Esta será mi web personal, hay que darle cariño
+Esta fue mi web personal, está hecha con cariño 😊
